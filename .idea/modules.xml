@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a-dataway/a-dataway.iml" filepath="$PROJECT_DIR$/a-dataway/a-dataway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dataway.iml" filepath="$PROJECT_DIR$/.idea/dataway.iml" />
+    </modules>
+  </component>
+</project>
